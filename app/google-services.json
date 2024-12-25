@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857441921062",
+    "project_id": "prax-c43fc",
+    "storage_bucket": "prax-c43fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857441921062:android:ccc155ba4bbc8d91ce1ee7",
+        "android_client_info": {
+          "package_name": "com.example.prax15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx9L26j66CJQyr9adYjBiNVfOI4y_83FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
